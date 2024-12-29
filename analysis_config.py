@@ -1,0 +1,9 @@
+ANALISIS_KONFIGURASI = {
+    'ANALISIS_SENTIMEN': False,
+    'EKSTRAKSI_KATA_KUNCI': True,
+    'MAKS_KATA_KUNCI': 10,
+    'DETEKSI_BAHASA': True,
+    'RINGKASAN_OTOMATIS': False,
+    'PANJANG_RINGKASAN': 3  # dalam kalimat
+}
+
